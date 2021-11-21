@@ -1,5 +1,5 @@
 # Introduction
-This repo contains the implementation of the following paper:
+This repo contains the implementation of the following paper (please cite if you find this useful):
 
 
 ```
@@ -25,4 +25,21 @@ This proposes the use of 1D-CNN to classify the mental imagery signal from EEG d
 <p align="center">
   <img width="522" height="477" src="https://github.com/TarmiziIzzuddin/1DCNN_Mental_Imagery/blob/main/NCAA-Diagram.png">
 </p>
+
+## Requirement (tested on)
+
+Python == 3.6
+numpy == 1.19.5
+tensorflow == 2.5.0 (GPU or CPU)
+pandas == 0.23.4
+
+
+## Running Intruction
+
+Example of running the 1D-CNN classification and visualization of learned kernels are available in the jupyter notebook "1D_CNN_mental_imagery.ipynb"
+
+## Data availability
+
+As data contains private subject's information, please do a personal request should it be required.
+
 
