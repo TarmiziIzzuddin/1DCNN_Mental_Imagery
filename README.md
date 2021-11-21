@@ -22,4 +22,7 @@ This repo contains the implementation of the following paper:
 
 This proposes the use of 1D-CNN to classify the mental imagery signal from EEG data, with an application toward target selection for a teleoperable mobile robot.
 
+<p align="center">
+  <img width="522" height="477" src="https://github.com/TarmiziIzzuddin/1DCNN_Mental_Imagery/blob/main/NCAA-Diagram.png">
+</p>
 
