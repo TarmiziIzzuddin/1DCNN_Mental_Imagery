@@ -1,4 +1,4 @@
-# Mental Classification using one-dimensional CNN
+# Mental Classification using 1D - CNN
 
 ## Introduction
 This repo contains the implementation of the following paper (please cite if you find this useful):
