@@ -29,12 +29,12 @@ This proposes the use of 1D-CNN to classify the mental imagery signal from EEG d
 </p>
 
 ## Requirement (tested on)
-
+```
 Python == 3.6
 numpy == 1.19.5
 tensorflow == 2.5.0 (GPU or CPU)
 pandas == 0.23.4
-
+```
 
 ## Running Intruction
 
